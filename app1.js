@@ -1,0 +1,10 @@
+const names = require('./app1-01-names')
+const sayHi = require('./app1-02-utils')
+const data = require('./app1-03-altern-flavor')
+require('./app1-04-mind-grenade')
+
+console.log(names)
+console.log(data)
+//sayHi('miguel')
+//sayHi(names.gabo)
+//sayHi(names.kikis)
